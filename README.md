@@ -1,4 +1,3 @@
-# ICode-Task3
 # My Awesome Chat Application 👋💬
 
 Welcome to my awesome chat application! This application allows users to communicate with each other in real-time and enjoy seamless conversations. Whether you're looking to chat with friends, collaborate with colleagues, or connect with new people, this application has got you covered. 
